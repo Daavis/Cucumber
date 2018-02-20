@@ -10,4 +10,3 @@ Feature: google search
     Examples: 
       | word  |
       | Dawid |
-      | Test |
